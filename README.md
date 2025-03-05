@@ -1,4 +1,4 @@
-# Travel Agent App - 100% Built with Copilot
+# Travel Agent App - 100% Built with Copilot for demo purposes 
 
 An intelligent travel planning assistant that generates personalized daily itineraries using GPT. The app provides specific, actionable travel recommendations including actual places, attractions, and addresses for your destination.
 
